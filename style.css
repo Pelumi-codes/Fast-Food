@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+  .center {
+    display: block;
+    margin:auto auto;
+    width: 100%;
+  }
